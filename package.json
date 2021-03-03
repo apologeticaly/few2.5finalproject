@@ -8,8 +8,17 @@
     "start": "next start"
   },
   "dependencies": {
+    "bootstrap": "^4.6.0",
+    "chart.js": "^2.9.4",
+    "csv-parser": "^3.0.0",
+    "d3": "^6.5.0",
+    "d3-dsv": "^2.0.0",
+    "d3-fetch": "^2.0.0",
+    "d3-scale": "^3.2.3",
+    "isomorphic-unfetch": "^3.1.0",
     "next": "^10.0.0",
     "react": "17.0.1",
-    "react-dom": "17.0.1"
+    "react-dom": "17.0.1",
+    "react-simple-maps": "^2.3.0"
   }
 }
